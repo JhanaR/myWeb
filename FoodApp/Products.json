@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "name": "Idli",
+    "description": "Malligai idli.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Idli_%28South_Indian_cuisine%29.jpg",
+    "price": 50
+  },
+  {
+    "id": 1,
+    "name": "Biriyani",
+    "description": "Authentic biriyani.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Biryani_Home.jpg",
+    "price": 349
+  },
+  {
+    "id": 2,
+    "name": "Dosa",
+    "description": "WoW Dosa.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg",
+    "price": 80
+  },
+  {
+    "id": 3,
+    "name": "Poori",
+    "description": "Fluffy poori.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Puri_and_Sabji.jpg",
+    "price": 90
+  },
+  {
+    "id": 4,
+    "name": "Pongal",
+    "description": "ghee sotta pongal.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pongal_Vada_-_A_South_Indian_Breakfast.png",
+    "price": 99
+  },
+  {
+    "id": 5,
+    "name": "Chapathi",
+    "description": "Soft chappathi.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Butter_Paneer_with_Chapati.jpg",
+    "price": 149
+  }
+]
